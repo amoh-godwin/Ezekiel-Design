@@ -4,7 +4,7 @@ import QtQuick.Layouts 1.3
 
 Rectangle {
     width: 120
-    height: 32
+    height: 28
     color: "white"
     border.width: 2
     border.color: "dodgerblue"
@@ -38,7 +38,7 @@ Rectangle {
         anchors.centerIn: parent
         text: "DOWNLOAD"
         color: "dodgerblue"
-        font.pixelSize: 16
+        font.pixelSize: 14
     }
 
 }
